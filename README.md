@@ -2,7 +2,7 @@
 
 
 ## Typescript installation
-You need to install ( if you do no have ) Typescript. Run `npm i typescript --save`
+You need to install ( if you do no have ) Typescript. Run `npm install typescript --save-dev`
 
 ## Installing dependencies
 To install dependencies, Run `npm i`
